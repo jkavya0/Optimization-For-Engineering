@@ -86,4 +86,4 @@ This project builds a strong foundation in optimization by implementing algorith
 
 ## Author
 
-Kavya J
+Kavya Jayaramaiah
